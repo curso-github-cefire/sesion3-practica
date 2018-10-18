@@ -1,0 +1,7 @@
+Enunciado:
+4. Modifica los ficheros correspondientes y realiza 3 commits para realizar cada una de las tareas que se indican en los issues. 
+El mensaje del commit debe hacer que se cierren los issues correspondientes de manera automática. 
+5. Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub. 
+
+Comentario:
+Yo he editado los ficheros desde GitHub. no he trabajado en local. Ahora me doy cuenta!
