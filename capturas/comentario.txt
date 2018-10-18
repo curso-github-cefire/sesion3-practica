@@ -4,4 +4,4 @@ El mensaje del commit debe hacer que se cierren los issues correspondientes de m
 5. Haz una captura de pantalla de los comandos que has utilizado para hacer los commits y subir los cambios a GitHub. 
 
 Comentario:
-Yo he editado los ficheros desde GitHub. no he trabajado en local. Ahora me doy cuenta!
+Yo he editado los ficheros desde GitHub. no he trabajado en local (clone/push). Ahora me doy cuenta!
