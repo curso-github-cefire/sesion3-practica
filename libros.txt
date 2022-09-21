@@ -1,3 +1,6 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
+libro 1
+libro 2
+libro 3
