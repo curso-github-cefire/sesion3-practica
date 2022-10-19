@@ -1,0 +1,2 @@
+No encuentro la captura donde actualizo la rama master local con la remota,
+pero habria que hacer un "git pull" o un "git merge origin/master"
