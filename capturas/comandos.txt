@@ -1,0 +1,5 @@
+He gecho la práctica dentro de GitHub, pero te paso los comandos para el primer commit que cierra el issue#1:
+
+git add.
+git commit -m "Añadir 3 libros. Close #1"
+git push
