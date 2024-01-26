@@ -1,6 +1,3 @@
 Juego de Tronos
 El Juego de Ender
 La Historia Interminable
-Mujercitas
-Fundamentos de programación
-Implementación y gestión de bases de datos
