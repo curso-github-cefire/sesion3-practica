@@ -1,6 +1,3 @@
-Añadir 3 libros:
-
-    Don Quijote de la Mancha - Miguel de Cervantes.
-    El código Da Vinci - Dan Brown.
-    El alquimista - Paulo Coelho.
-
+Don Quijote de la Mancha - Miguel de Cervantes.
+El código Da Vinci - Dan Brown.
+El alquimista - Paulo Coelho.
